@@ -6,6 +6,7 @@ A beautiful, interactive monthly task planner built with React and TypeScript. P
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-blue.svg)
 
 ## 🚀 Live Demo
+<img width="950" height="801" alt="image" src="https://github.com/user-attachments/assets/a6256102-dc54-4611-9e71-7691b0ebbc46" />
 
 **[View Live Demo](https://monthplanner.vercel.app/)**
 
